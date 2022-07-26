@@ -2,7 +2,7 @@
 
 Welcome to the privacy policy for the Penguin Race Adventure game made by VonkjeGames!
 
-Penguin Race Adventure is an offline game that stores all its data on your local device and only uses the google play services for achievements & Advertisements. It does not use any user information and is not involved with third parties. The app uses Google Play certified SDK's. 
+Penguin Race Adventure is an offline game that stores all its data on your local device and only uses the google play services for achievements & advertisements. It does not use any user information and is not involved with third parties. The app uses Google Play certified SDK's. 
 
 The login into your Google Play account is exclusively used for:
 - Achievements (via Google Play-gameservices)
